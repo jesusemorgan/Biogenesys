@@ -75,6 +75,8 @@ Tablero dinámico con:
 📂 También puedes explorar el proyecto completo descargando el archivo:  
 [Descargar Biogenesys.pbix](assets/Biogeneys.pbix)  
 
+📂 También puedes explorar el proceso de ingesta, limpieza y análisis con Python, descargando el archivo:  
+[Descargar Biogenesys.ipynb](https://drive.google.com/file/d/1D5r1GIZ_yqBLlUzcUwL1t5P4xvscEnQC/view?usp=sharing)
 
 ## 🔮 Líneas Futuras  
 - Ampliar las medidas DAX para nuevos KPIs.  
